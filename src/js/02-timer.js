@@ -12,7 +12,7 @@ const refs = {
 let id = null;
 let selectedDate = "";
 
-refs.startBtn.disabled = true;
+
 
 const options = {
   enableTime: true,
