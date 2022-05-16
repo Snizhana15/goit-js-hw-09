@@ -1,0 +1,26 @@
+{
+  "name": "goit-js-hw-09",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snizhana15/goit-js-hw-09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snizhana15/goit-js-hw-09/issues"
+  },
+  "homepage": "https://github.com/Snizhana15/goit-js-hw-09",
+  "dependencies": {
+    "flatpickr": "^4.6.13",
+    "notiflix": "^3.2.5"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
